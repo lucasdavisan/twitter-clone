@@ -21,7 +21,7 @@
 </div>
 <div id="license">
   <h2>License</h2>
-  <p>This project is licensed by MIT - take a look <a href="https://github.com/lucasdavisan/omnistack-week-11/blob/master/LICENSE">LICENSE</a> for details.</p>
+  <p>This project is licensed by MIT - take a look <a href="https://github.com/lucasdavisan/twitter-clone/blob/master/LICENSE">LICENSE</a> for details.</p>
 </div>
 <div>
   <hr/>
