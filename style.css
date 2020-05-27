@@ -491,5 +491,18 @@ div.wrapper-content aside.widgets .follow ul li > a {
   color: #ccd6dd;
   text-decoration: none;
   font-size: 14px;
+}
 
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+
+  background: #ffff00;
+  height: 40px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #1f2326;
 }
